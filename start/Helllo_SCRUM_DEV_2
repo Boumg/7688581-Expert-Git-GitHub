@@ -1,0 +1,14 @@
+#include <iostream>
+#include <vector>
+
+int main() {
+    std::vector<std::string> scrumDevelopers = {"Alice", "Bob", "Charlie", "David"};
+
+    std::cout << "Salutations aux développeurs SCRUM :\n";
+
+    for(const auto& developer : scrumDevelopers) {
+        std::cout << "Bonjour " << developer << "!\n";
+    }
+
+    return 0;
+}
