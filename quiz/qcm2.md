@@ -46,7 +46,7 @@ Which statement best describes a Product Owner's responsibility?
 
 # Question 44
 Based on "Sprint 7 Burn-Down Chart" would you do anything different in Sprint 89
-![Burns](./PSD44.png)
+![Burns](PSD44.png)
 
 (choose the best two answers)
 
