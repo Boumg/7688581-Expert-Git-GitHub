@@ -19,29 +19,29 @@ Which of the following describe Test-Driven Development?
 (choose the best two answers)
 
 - [x]  A. A software development technique based on automated tests.
-- [] B. Having testers involved in the development process.
+- [ ] B. Having testers involved in the development process.
 - [x]  C. An incremental and emergent approach to software design.
-- [] D. A predictable way to develop working, well-organized code.
-- [] E. Creating a manual test script before writing code.
+- [ ] D. A predictable way to develop working, well-organized code.
+- [ ] E. Creating a manual test script before writing code.
 
 # Question 42
 
 Which of the following describe Test-Driven Development?
 (choose the best two answers)
 - [x]  A. A software development technique based on automated tests.
-- [] B. Having testers involved in the development process.
+- [ ] B. Having testers involved in the development process.
 - [x]  C. An incremental and emergent approach to software design.
-- [] D. A predictable way to develop working, well-organized code.
-- [] E.Creating a manual test script before writing code.
+- [ ] D. A predictable way to develop working, well-organized code.
+- [ ] E.Creating a manual test script before writing code.
 
 # Question 43
 
 Which statement best describes a Product Owner's responsibility?
 (choose the best answer)
 
-- [] A. Keep stakeholders from distracting the Developers.
-- [] B. Directing the Developers.
-- [] C. Ensuring that the work meets the commitments to the stakeholders.
+- [ ] A. Keep stakeholders from distracting the Developers.
+- [ ] B. Directing the Developers.
+- [ ] C. Ensuring that the work meets the commitments to the stakeholders.
 - [x]  D. Maximizing the value of the work the Scrum Team does.
 
 # Question 44
@@ -50,15 +50,15 @@ Based on "Sprint 7 Burn-Down Chart" would you do anything different in Sprint 89
 
 (choose the best two answers)
 
-- [] A. The Scrum Master adds additional Developers for Sprint 8.
-- [] B. The Developers carryover incomplete Sprint Backlog items from Sprint 7 to
+- [ ] A. The Scrum Master adds additional Developers for Sprint 8.
+- [ ] B. The Developers carryover incomplete Sprint Backlog items from Sprint 7 to
 Sprint 8 and monitor the Sprint 8 burn-down chart. As soon as deviation from
 trends is detected, the Developers work with the Product Owner to negotiate
 remaining work.
-- [] C. There is nothing wrong. The Developers will present all oduct Backlog items
+- [ ] C. There is nothing wrong. The Developers will present all oduct Backlog items
 selected for Sprint 7 at the end of the Sprint.
 - [x] D. The Developers may forecast less overall work in Sprint 8.
-- [] E. Stakeholders will encourage the Scrum Team to estimate better during the Sprint
+- [ ] E. Stakeholders will encourage the Scrum Team to estimate better during the Sprint
 8 Planning Meeting.
 - [x] F. The Developers put incomplete Product Backlog items back into the Product
 Backlog for re-ordering. The Product Owner may ask the Developers to
@@ -68,7 +68,7 @@ complete the unfinished Product Backlog items from Sprint 7 in Sprint 8.
 
 True or False: Only technical writers can create documentation during a Sprint.
 
-- [] True
+- [ ] True
 - [x] False
 
 
@@ -78,12 +78,12 @@ The Sprint is already underway. A Product Backlog item selected for the Sprint i
 two things could the Developers doQ
 (choose the best two answers)
 a
-- [] A. Skip the item until the next Sprint.
+- [ ] A. Skip the item until the next Sprint.
 - [x] B. Reach out to the Product Owner for the missing information before proceeding.
-- [] C. Reach out to specialists in the product management department for the missing
+- [ ] C. Reach out to specialists in the product management department for the missing
 information.
 - [x] D. Make their best guess and proceed to avoid any delays.
-- [] E. With the Product Owner's help, move the unclear work into a new Product
+- [ ] E. With the Product Owner's help, move the unclear work into a new Product
 Backlog item and place it on the Product Backlog.
 
 # Question 47
