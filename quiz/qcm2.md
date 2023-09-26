@@ -6,10 +6,10 @@ What are possible benefits from practicing Test-Driven Development?
 - [x] A It helps break down complex problems into smaller ones that are much easier to
 be tackled.
 - [x]  B. It helps to identify gaps in understanding the desired behavior.
-- [] C. It increases collaboration between Developers as it requires Pair Programming-
-- [] D. It is a great way for Testers to contribute early in the Sprint as they can start
+- [ ] C. It increases collaboration between Developers as it requires Pair Programming-
+- [ ] D. It is a great way for Testers to contribute early in the Sprint as they can start
 creating all the tests from the beginning on.
-- [] E. It makes Integration Tests obsolete and by doing so saves a lot of time.
+- [ ] E. It makes Integration Tests obsolete and by doing so saves a lot of time.
 - [x]   F. It might lead to better code as refactoring is part of the Test-Driven Development
 cycle.
 
